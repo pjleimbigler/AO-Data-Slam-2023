@@ -1,0 +1,14 @@
+name: ao-data-slam
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - pandas
+  - matplotlib
+  - plotly
+  - jupyter
+  - numpy
+  - scikit-learn
+  - python
+prefix: /opt/miniconda3/envs/ao-data-slam
